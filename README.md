@@ -24,5 +24,5 @@
 
   <!---->
 
-    ![Snake animation](https://github.com/pmarcelin/pmarcelin/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/pmarcelin/pmarcelin/blob/output/github-contribution-grid-snake.svg)
 
