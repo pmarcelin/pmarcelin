@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Atualmente trabalho em escritorio de contabilidade
+- 🔭 Atualmente trabalho em um escritório de contabilidade
 - 🌱 Estou no momento estudando sobre Front-end
 - 😄 Pronouns: ele/dele
 
